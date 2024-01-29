@@ -3,7 +3,7 @@
 
 * 🕸 I make websites using React.
 * 🌱 I'm currently learning React Native and improving my foundational JavaScript knowledge.
-* 🎨 I enjoy the intersection of creativity and practicality, e.g., using colour theory to create unique colour palettes that are also accessible.
+* 🎨 I enjoy building creative and practical tools, e.g., using colour theory to create unique colour palettes that are also accessible. (See my [accessible colour palette designer](https://acpd.vercel.app/)).
 * 🔮 In my spare time, I'm developing concepts for a DnD-inspired fantasy mobile game.
 
 ---  
