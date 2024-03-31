@@ -1,4 +1,4 @@
-* 🕸 I make websites and other things.
+* 🕸 I make websites.
 * 🌱 I'm currently learning more about technology in general.
 * 🎨 I enjoy being creative and building practical tools.
 
