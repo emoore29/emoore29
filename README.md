@@ -1,8 +1,4 @@
-* 🕸 I make websites.
-* 🌱 I'm currently learning more about technology in general.
-* 🎨 I enjoy being creative and building practical tools.
 
----  
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/emoore29/emoore29/assets/113172968/6d9a15a1-308e-49b7-aee0-acdb197366e1" alt="Experiments">
