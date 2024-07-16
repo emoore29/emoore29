@@ -2,7 +2,7 @@
 
 <p align="center" width="100%">
     <img width="33%" src="https://github.com/emoore29/emoore29/assets/113172968/6d9a15a1-308e-49b7-aee0-acdb197366e1" alt="Experiments">
-  <p align="center" width="100%">Art by <a href="https://www.transhumans.xyz/">Pablo Stanley</a></p>
+  <p align="center" width="100%" ><a href="https://www.transhumans.xyz/">Source</a></p>
 </p>
 
 
