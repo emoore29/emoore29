@@ -1,9 +1,7 @@
+I am currently completing a Graduate Diploma in Information Technology at the University of New England. 
 
+I am most experienced with JavaScript and React, but I'm enjoying learning Python, OOP in Java, and looking forward to learning more as I continue my studies and career.
 
-<p align="center" width="100%">
-    <img width="33%" src="https://github.com/emoore29/emoore29/assets/113172968/6d9a15a1-308e-49b7-aee0-acdb197366e1" alt="Experiments">
-  <p align="center" width="100%" ><a href="https://www.transhumans.xyz/">Source</a></p>
-</p>
 
 
 <!--
