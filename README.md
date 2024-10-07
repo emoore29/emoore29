@@ -1,4 +1,4 @@
-Hi! I'm an IT student, currently completing a Graduate Diploma in Information Technology at the University of New England. 
+Hi! I'm Emma. I'm currently completing a Graduate Diploma in Information Technology at the University of New England. 
 
 I am most experienced with JavaScript and React, but I'm enjoying learning Python, OOP in Java, and looking forward to learning more as I continue my studies and career.
 
